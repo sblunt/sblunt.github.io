@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi! I'm an astrophysicist, dubbed PhD in June 2023. 
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My interests are constantly evolving, but I'm excited about work happening at the intersection of exoplanet astrophysics, stellar astrophysics, and data science. I am particularly interested in young, giant planets, and study them using direct imaging and radial velocities. In addition to research, I spend much of my time teaching and working on STEM equity & inclusion initiatives.
 
 # Header 1
 

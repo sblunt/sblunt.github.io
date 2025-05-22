@@ -5,12 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-span {
-  display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
-}
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -38,11 +32,11 @@ span {
         {% endif %}
 
         {% if site.show_downloads %}
-        <ul class="downloads">
+        <center><ul class="downloads">
           <li><a href="https://drive.google.com/file/d/1WrFF5YQRbFlikrnynJ2ZqDWbakyHlowK/view?usp=sharing"><strong>CV</strong></a></li>
-          <li><span><a href="https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=AND&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%220%2FArticle%22&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_doctype=(doctype_facet_hier%3A%220%2FArticle%22)&p_=0&q=orcid%3A0000-0002-3199-2888&sort=date%20desc%2C%20bibcode%20desc"><strong>NASA ADS</strong></a></span></li>
-          <li><span><a href="https://scholar.google.com/citations?user=784FWFsAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a></span></li>
-        </ul>
+          <li><a href="https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=AND&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%220%2FArticle%22&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_doctype=(doctype_facet_hier%3A%220%2FArticle%22)&p_=0&q=orcid%3A0000-0002-3199-2888&sort=date%20desc%2C%20bibcode%20desc"><strong>NASA ADS</strong></a></li>
+          <li><a href="https://scholar.google.com/citations?user=784FWFsAAAAJ&hl=en&oi=ao"><strong>Google Scholar</strong></a></li>
+        </ul></center>
         {% endif %}
       </header>
       <section>
