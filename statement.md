@@ -8,4 +8,4 @@ Collaborating with Geoff Marcy, in any form, is not ok. Requesting or requiring 
 
 I include this information here not to defend my decision to remain on the papers, but to let people interested in working with me know that I would never put them in a situation where they had to decide between getting credit for their work and putting their name on a paper next to an abuser.
 
-[back](./)
+[Back](./)
