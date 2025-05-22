@@ -6,6 +6,9 @@ Hi! I'm an astrophysicist, dubbed PhD in June 2023.
 
 My interests are constantly evolving, but I'm excited about work happening at the intersection of exoplanet astrophysics, stellar astrophysics, and statistics. I am particularly interested in **young and/or giant planets**, and study them using **direct imaging, astrometry, and radial velocities**. In addition to research, I spend much of my time teaching and working on STEM equity & inclusion initiatives.
 
+<a href="./another-page.html">Heres a Statement about a Coauthor I've been Listed With <br> (Content Warning: Sexual Harassment and Abuse)</a>
+
+
 ### A Brief History
 
 My excellent high school teacher, Dr. Edmundo Nunes, inspired me to pursue physics. Over a gap year between high school and college, I was first exposed to scientific research through assisting [Adric Riedel](https://adricriedel.com/about-me.html) and [Emily Rice](https://www.amnh.org/research/staff-directory/emily-l-rice) on a new [algorithm for identifying young stellar moving groups](https://www.google.com/url?q=http%3A%2F%2Fadsabs.harvard.edu%2Fabs%2F2017AJ....153...95R&sa=D). I like to tell more junior students about the ~10 times I had to email Emily before she finally agreed to let me work with her. Persistence is important! 
