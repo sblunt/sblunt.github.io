@@ -4,7 +4,7 @@ layout: default
 
 Hi! I'm an astrophysicist, dubbed PhD in June 2023. 
 
-My interests are constantly evolving, but I'm excited about work happening at the intersection of exoplanet astrophysics, stellar astrophysics, and data science. I am particularly interested in young, giant planets, and study them using direct imaging and radial velocities. In addition to research, I spend much of my time teaching and working on STEM equity & inclusion initiatives.
+My interests are constantly evolving, but I'm excited about work happening at the intersection of exoplanet astrophysics, stellar astrophysics, and data science. I am particularly interested in **young** and/or **giant planets**, and study them using **direct imaging, astrometry, and radial velocities**. In addition to research, I spend much of my time teaching and working on STEM equity & inclusion initiatives.
 
 # Header 1
 
