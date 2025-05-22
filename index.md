@@ -6,7 +6,7 @@ Hi! I'm an astrophysicist, dubbed PhD in June 2023.
 
 My interests are constantly evolving, but I'm excited about work happening at the intersection of exoplanet astrophysics, stellar astrophysics, and statistics. I am particularly interested in **young and/or giant planets**, and study them using **direct imaging, astrometry, and radial velocities**. In addition to research, I spend much of my time teaching and working on STEM equity & inclusion initiatives.
 
-<a href="./another-page.html">Heres a Statement about a Coauthor I've been Listed With <br> (Content Warning: Sexual Harassment and Abuse)</a>
+<a href="./statement.html">Heres a statement</a> about a coauthor I've been listed with. (Content warning: sexual harassment and abuse)
 
 
 ### A Brief History
